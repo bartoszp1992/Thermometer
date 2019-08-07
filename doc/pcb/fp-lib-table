@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ramzes)(type KiCad)(uri /home/bartosz/projekty/arm/workspace/Thermometer/doc/ramzesLib/ramzes.pretty)(options "")(descr ""))
+)
