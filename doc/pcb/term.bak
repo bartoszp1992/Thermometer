@@ -246,11 +246,11 @@ F 3 "http://www.ti.com/lit/ds/symlink/lm35.pdf" H 7100 2650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+9V #PWR01
+L power:+5V #PWR01
 U 1 1 5D463DDB
 P 7100 2350
 F 0 "#PWR01" H 7100 2200 50  0001 C CNN
-F 1 "+9V" H 7115 2523 50  0000 C CNN
+F 1 "+5V" H 7115 2523 50  0000 C CNN
 F 2 "" H 7100 2350 50  0001 C CNN
 F 3 "" H 7100 2350 50  0001 C CNN
 	1    7100 2350

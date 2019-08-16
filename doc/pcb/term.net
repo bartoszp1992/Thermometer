@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/bartosz/projekty/arm/workspace/Thermometer/doc/pcb/term.sch)
-    (date "śro, 7 sie 2019, 23:17:45")
+    (date "pon, 12 sie 2019, 23:00:43")
     (tool "Eeschema 5.1.2-1.fc30")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -136,7 +136,7 @@
       (tstamp 5D47FC97))
     (comp (ref J1)
       (value USB_B_Micro)
-      (footprint Connector_USB:USB_Micro-B_Molex-105017-0001)
+      (footprint Connector_USB:USB_Micro-B_Molex_47346-0001)
       (datasheet ~)
       (libsource (lib Connector) (part USB_B_Micro) (description "USB Micro Type B connector"))
       (sheetpath (names /) (tstamps /))
